@@ -1227,8 +1227,6 @@ dependencies = [
  "serial_test",
  "syscalls",
  "wasmedge-sdk",
- "wasmedge-sys",
- "wasmedge-types",
  "wasmer",
  "wasmer-wasi",
 ]
